@@ -39,7 +39,7 @@
 //   res.json(bestMatch);
 //   });
 // };
-var friendData = require(".../data/friends");
+var friendData = require("../data/friends");
 
 module.exports = function(app) {
 
