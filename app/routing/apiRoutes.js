@@ -5,10 +5,11 @@ module.exports = function(app)  {
     });
 
   app.post("/api/friends", function(req, res)  {
-    name: "",
-    photo: "",
-    friendDifference: Infinity
-    };
+    var bestMatch ={
+      name: "",
+      photo: "",
+      friendDifference: Infinity
+      };
   var userData = req.body;
   var userScores = userData.scores;
   var totalDifference;
