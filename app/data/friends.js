@@ -1,0 +1,52 @@
+var friends = [
+{
+  "name":"Wyatt",
+  "photo":"https://pbs.twimg.com/profile_images/378800000719824670/56510790fffb783c36a777a914ab77ea_400x400.jpeg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+}
+{
+  "name":"Stephanie",
+  "photo":"https://blog.styleboston.tv/wp-content/uploads/2014/11/stephanie-cmar-via-zagat-e1415131627379.jpg",
+  "scores":[
+      2,
+      3,
+      3,
+      1,
+      4,
+      5,
+      1,
+      1,
+      2,
+      4
+    ]
+}
+{
+  "name":"Luvier",
+  "photo":"https://images.meetmecdna.com/thumb_userimages/2014/07/10/00/thm_php52WqO1.jpg",
+  "scores":[
+      1,
+      4,
+      1,
+      4,
+      5,
+      2,
+      3,
+      3,
+      2,
+      1
+    ]
+}
+];
+
+module.exports = friends;
