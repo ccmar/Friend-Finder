@@ -14,15 +14,5 @@
   },
   "engines": {
     "node": "5.4.0"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ccmar/Friend-Finder.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/ccmar/Friend-Finder/issues"
-  },
-  "homepage": "https://github.com/ccmar/Friend-Finder#readme"
+  }
 }
