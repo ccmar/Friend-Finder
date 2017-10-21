@@ -14,7 +14,7 @@ var friends = [
       4,
       1
     ]
-}
+},
 {
   "name":"Stephanie",
   "photo":"https://blog.styleboston.tv/wp-content/uploads/2014/11/stephanie-cmar-via-zagat-e1415131627379.jpg",
@@ -30,7 +30,7 @@ var friends = [
       2,
       4
     ]
-}
+},
 {
   "name":"Luvier",
   "photo":"https://images.meetmecdna.com/thumb_userimages/2014/07/10/00/thm_php52WqO1.jpg",
